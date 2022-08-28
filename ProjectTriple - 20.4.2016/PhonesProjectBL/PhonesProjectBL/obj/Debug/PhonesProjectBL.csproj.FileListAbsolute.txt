@@ -1,0 +1,423 @@
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\Users\admin\Desktop\Project-8.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\Users\admin\Desktop\ProjectCombo-9.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\Users\admin\Desktop\ProjectCombo-9.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\Users\admin\Desktop\ProjectCombo-9.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\Users\admin\Desktop\ProjectCombo-9.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\Users\admin\Desktop\ProjectCombo-11.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\Users\User\Desktop\ProjectCombo-16.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo-22.11.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo- 2.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 6.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 6.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\Users\User\Desktop\ProjectCombo- 6.12.15(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\Users\User\Desktop\ProjectCombo- 6.12.15(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 16.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo- 16.12.15(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 20.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 20.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 20.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 20.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\Users\User\Desktop\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 21.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\projects\ProjectCombo- 23.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\projects\ProjectCombo- 25.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\projects\ProjectCombo- 26.12.15\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe.config
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.exe
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 26.12.15 (2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectCombo- 27.12.2015\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -3.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -20.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -24.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -25.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -31.1.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -8.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -10.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -17.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -21.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -22.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -24.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -27.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -28.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -28.2.2016(2)\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -29.2.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -1.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -2.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -13.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 14.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 16.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 20.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 21.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 27.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 28.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 30.3.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 3.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 4.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.dll
+D:\ProjectTriple - 6.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.pdb
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.dll
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.pdb
+D:\ProjectTriple - 10.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.dll
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.pdb
+D:\ProjectTriple - 11.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.pdb
+C:\ProjectTriple - 12.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.pdb
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 19.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll.config
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\bin\Debug\ProjectPhone_ServiceDal.pdb
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 20.4.2016\PhonesProjectBL\PhonesProjectBL\obj\Debug\PhonesProjectBL.pdb

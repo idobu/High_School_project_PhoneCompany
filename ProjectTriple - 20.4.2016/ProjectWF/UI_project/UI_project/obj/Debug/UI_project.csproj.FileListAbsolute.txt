@@ -1,0 +1,349 @@
+C:\ProjectTriple -3.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\ProjectTriple -18.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -20.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.yo.resources
+C:\ProjectTriple -24.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.resources
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.yo.resources
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple -25.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.resources
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.yo.resources
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple -31.1.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.resources
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.UserProp.yo.resources
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple -22.2.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple -13.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple -13.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple -13.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+D:\ProjectTriple - 21.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple - 27.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ProjectTriple - 28.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions2.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Pack.resources
+C:\ProjectTriple - 30.3.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Orders.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Orders.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Pack.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions2.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+D:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple - 3.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Orders.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Pack.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerActions2.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.NewClient.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple - 12.4.2016\ProjectUI\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Orders.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Pack.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions2.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple - 12.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Orders.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Pack.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions2.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple - 19.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.exe.config
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.exe
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.pdb
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.exe
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\UI_project.pdb
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\yo\UI_project.resources.dll
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\PhonesProjectBL.dll
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\ProjectDal-phones.dll
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\PhonesProjectBL.pdb
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\bin\Debug\ProjectDal-phones.pdb
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.csprojResolveAssemblyReference.cache
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.Form1.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.LogIn.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Orders.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions_Pack.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerActions2.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.Properties.Resources.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.ManagerProp.yo.resources
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\UI_project.csproj.GenerateResource.Cache
+C:\ProjectTriple - 20.4.2016\ProjectWF\UI_project\UI_project\obj\Debug\yo\UI_project.resources.dll
