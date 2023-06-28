@@ -1,2 +1,3 @@
 # High_School_project_PhoneCompany
- final project at High School , using ASP.NTE & web service
+Final project at High School , using ASP.NTE & web service.
+the projects implements the 3-layer metodology in web development.
